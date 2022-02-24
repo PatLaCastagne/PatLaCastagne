@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![PatLaCastagne stats](https://github-readme-stats.vercel.app/api?username=PatLaCastagne&show_icons=true&include_all_commits=true&count_private=true)
+
 <!--
 **PatLaCastagne/PatLaCastagne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
